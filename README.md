@@ -1,3 +1,3 @@
 # COGS108_Repo
-Fist assignment txt
+First assignment txt
 
